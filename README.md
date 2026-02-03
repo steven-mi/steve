@@ -8,7 +8,7 @@ Steve is a macOS application that enables AI to interact directly with your comp
 - [x] Integration of custom Python Code
 - [x] Integration of pre-defined Extensions
 - [ ] OpenAI Integration
-- [ ] Finder Integration
+- [x] Finder Integration
 
 
 
